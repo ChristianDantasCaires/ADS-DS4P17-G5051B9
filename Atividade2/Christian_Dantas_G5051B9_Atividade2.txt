@@ -1,0 +1,23 @@
+No HTML5, as "tags" são elementos fundamentais de marcação usados para criar estrutura e conteúdo em uma página da web. As tags são compostas por palavras-chave envolvidas por colchetes angulares ("<>" e "</>"). Elas fornecem instruções aos navegadores sobre como exibir e interpretar o conteúdo do documento HTML. Cada tag tem uma finalidade específica e contribui para a formatação, organização e interatividade da página.
+
+As tags são a base da linguagem HTML e desempenham diversos papéis:
+
+Estruturação e Organização: As tags definem a estrutura básica da página, como <html>, <head> e <body>. Elas também subdividem o conteúdo em seções lógicas usando tags como <header>, <nav>, <main>, <article>, <section> e <footer>.
+
+Formatação de Texto: As tags controlam a formatação do texto, permitindo coisas como negrito <b>, itálico <i>, sublinhado <u>, enfatização forte <strong> e ênfase <em>.
+
+Links e Âncoras: A tag <a> cria links para outras páginas ou recursos. O atributo href define o destino do link, enquanto a tag <a> também pode ser usada como âncora interna para navegar para pontos específicos na mesma página.
+
+Imagens e Mídia: A tag <img> insere imagens na página. O atributo src especifica o caminho da imagem, e o atributo alt fornece uma descrição alternativa para acessibilidade.
+
+Listas: As tags <ul> (lista não ordenada) e <ol> (lista ordenada) criam listas de itens. Cada item é definido com a tag <li>.
+
+Formulários: As tags <form> criam formulários interativos para coletar informações dos usuários. Elementos como <input>, <textarea>, <select> e <button> são usados para criar campos de entrada e botões.
+
+Tabelas: A tag <table> cria tabelas para exibir dados. As células são definidas com as tags <tr> (linha) e <td> (célula de dados), enquanto cabeçalhos são criados com a tag <th>.
+
+Metadados: A tag <meta> fornece metadados sobre a página, como a codificação de caracteres, descrições para mecanismos de busca e outros detalhes importantes.
+
+Comentários: Comentários são inseridos com <!-- para iniciar e --> para encerrar. Eles não são visíveis na página, sendo usados para adicionar notas e explicações no código.
+
+Ao compreender e usar corretamente as tags no HTML5, os desenvolvedores podem criar páginas da web bem estruturadas e acessíveis, melhorando a experiência do usuário e facilitando a manutenção do código.

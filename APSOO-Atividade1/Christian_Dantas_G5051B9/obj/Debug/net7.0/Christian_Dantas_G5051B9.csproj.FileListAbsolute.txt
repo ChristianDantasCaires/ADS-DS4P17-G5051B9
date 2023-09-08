@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\bin\Debug\net7.0\Christian_Dantas_G5051B9.exe
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\bin\Debug\net7.0\Christian_Dantas_G5051B9.deps.json
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\bin\Debug\net7.0\Christian_Dantas_G5051B9.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\bin\Debug\net7.0\Christian_Dantas_G5051B9.dll
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\bin\Debug\net7.0\Christian_Dantas_G5051B9.pdb
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.dll
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\refint\Christian_Dantas_G5051B9.dll
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.pdb
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\Christian_Dantas_G5051B9.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\UnipRepositoryTrabalhos\AppRA\Christian_Dantas_G5051B9\obj\Debug\net7.0\ref\Christian_Dantas_G5051B9.dll
